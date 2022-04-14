@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deboraj-roy
 - 👀 I enjoy programming and  
 - 🌱 am currently learning Python.
-- 💞️ I’m looking to collaborate on beginners in programming.
+- 💞️ I am open to collaborate with programmers who are fresh to the field.
 - 📫 How to reach me: https://www.linkedin.com/in/deboraj-roy-a725731a2/
 
 <!---
