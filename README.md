@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deboraj-roy
+- 👋 Hi, I’m Deboraj-roy
 - 👀 I enjoy programming and  
 - 🌱 am currently learning Python.
 - 💞️ I am open to collaborate with programmers who are fresh to the field.
