@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **deborajroy123@gmail.com**
 
+- 👯 My LinkedIn profile **https://www.linkedin.com/in/deboraj-roy-a725731a2/**
+
 - ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
@@ -35,7 +37,19 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deboraj-roy&" alt="deboraj-roy" /></p>
 
 
+<!---
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+--->
+<br />
+<br />
 
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Deboraj-roy/Deboraj-roy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/Deboraj-roy/Deboraj-roy/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+<br />
+<br />
 <!---
 Deboraj-roy/Deboraj-roy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
