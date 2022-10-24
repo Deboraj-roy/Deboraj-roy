@@ -111,6 +111,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=deboraj-roy&theme=flat&margin-w=10&no-frame=true" alt="Deboraj Roy github profile trophy" />
   </a>
 </p>
+
 <!-- end github profile trophy -->
 
 <br/>
@@ -129,6 +130,10 @@
   <a href="https://fb.com/deborajjj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deborajjj" height="46" width="46" />
   </a>
    
+  <a href="https://twitter.com/deboraj_roy">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  
 </p>
 <!-- end connect with me -->
 <br />
