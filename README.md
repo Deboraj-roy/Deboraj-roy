@@ -20,11 +20,15 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Deboraj-roy](https://github.com/Deboraj-roy)
+- 🤝 I’m looking for help with **Front-end web development**
+
+- 👨‍💻 All of my projects are available at [This GitHub](https://github.com/Deboraj-roy/*)
 
 - 💬 Ask me about **AWS, HTML, JAVA**
 
 - 📫 How to reach me **deborajroy123@gmail.com**
+
+- 📄 Know about my experiences [https://eclectic-taffy-2c73da.netlify.app/](https://eclectic-taffy-2c73da.netlify.app/)
 
 - ⚡ Fun fact **I think I am funny.**
 
