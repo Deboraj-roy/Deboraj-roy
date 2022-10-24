@@ -11,6 +11,11 @@
 <br/>
 
 
+
+
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🔭 I’m currently working on [Blood-bank-management-system](https://github.com/Deboraj-roy/Blood-bank-management-system)
 
 - 🌱 I’m currently learning **Python**
@@ -131,7 +136,9 @@
 
 
 <!---
-
+https://i.ibb.co/hC77shL/programmer.gif
+https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
+https://ibb.co/rv77kTF
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Deboraj-roy/Deboraj-roy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/Deboraj-roy/Deboraj-roy/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
