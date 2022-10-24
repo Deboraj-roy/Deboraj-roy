@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with **Front-end web development**
 
-- 👨‍💻 All of my projects are available at [This GitHub](https://github.com/Deboraj-roy/*)
+- 👨‍💻 All of my projects are available at [This GitHub](https://github.com/Deboraj-roy)
 
 - 💬 Ask me about **AWS, HTML, JAVA**
 
