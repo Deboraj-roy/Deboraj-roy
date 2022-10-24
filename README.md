@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deboraj-roy&label=Profile%20views&color=0e75b6&style=flat" alt="deboraj-roy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deboraj-roy" alt="deboraj-roy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -32,17 +31,7 @@
 - ⚡ Fun fact **I think I am funny.**
 
 <!-- end about me -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/deboraj-roy-a725731a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deboraj-roy-a725731a2" height="30" width="40" /></a>
-<a href="https://fb.com/deborajjj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deborajjj" height="30" width="40" /></a>
-</p>
-
-
-
-
-
+ 
 <br/>
 <br/>
 
@@ -92,10 +81,7 @@
 
 
 [![Deboraj Roy's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Deboraj-roy&&theme=xcode)](https://github.com/Deboraj-roy)
-<!---
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
---->
+
 <br />
 
 
@@ -108,26 +94,68 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deboraj-roy&background=003855&currStreakNum=67e26d&ring=67e26d&fire=67e26d&currStreakLabel=67e26d&sideNums=ffffff&sideLabels=ffffff&dates=adb5bd&hide_border=true" alt="Deboraj roy github streak stats" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deboraj-roy&custom_title=GitHub Stats&show_icons=true&locale=en&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="mustaquenadim github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deboraj-roy&custom_title=GitHubStats&show_icons=true&locale=en&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="Deboraj-roy github stats" />
+  
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deboraj-roy&langs_count=8&layout=compact&card_width=445&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="mustaquenadim most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deboraj-roy&langs_count=8&layout=compact&card_width=445&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="Deboraj-roy most used languages" />
 </p>
 <p align="center">
-  <img align="center" src="https://github.com/Deboraj-roy/Deboraj-roy/blob/output/github-contribution-grid-snake.svg" alt="mustaquenadim contribution grid snake" />
+  <img align="center" src="https://raw.githubusercontent.com/Deboraj-roy/Deboraj-roy/output/github-contribution-grid-snake-dark.svg" alt="Deboraj-roy contribution grid snake" />
+
+
+
+</p>
+<!-- end github analytics -->
+<br/>
+<br/>
+
+<!-- github profile trophy -->
+<h2 align="center"> :trophy: GitHub Profile Trophy :trophy: </h2>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=deboraj-roy&theme=flat&margin-w=10&no-frame=true" alt="Deboraj Roy github profile trophy" />
+  </a>
+</p>
+<!-- end github profile trophy -->
+
+<br/>
+<br/>
+
+
+<!-- connect with me -->
+<h2 align="center">🔗 Connect with Me 🔗</h2>
+
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deboraj-roy-a725731a2" alt="deboraj-roy-a725731a2">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://fb.com/deborajjj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deborajjj" height="46" width="46" />
+  </a>
+   
+</p>
+<!-- end connect with me -->
+<br />
+
+<!---
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+--->
+
+
+<!---
 
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Deboraj-roy/Deboraj-roy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/Deboraj-roy/Deboraj-roy/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-</p>
-<!-- end github analytics -->
-<br />
 
 
-<br />
-<br />
-<!---
 Deboraj-roy/Deboraj-roy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
