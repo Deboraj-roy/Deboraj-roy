@@ -108,7 +108,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=deboraj-roy&theme=flat&margin-w=10&no-frame=true" alt="Deboraj Roy github profile trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Deboraj-roy&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Deboraj Roy github profile trophy" />
   </a>
 </p>
 
@@ -157,6 +157,13 @@ https://ibb.co/rv77kTF
 Deboraj-roy/Deboraj-roy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
 <p align="center">2022 ©️ DEBORAJ</p>
