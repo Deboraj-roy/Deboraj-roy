@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **deborajroy123@gmail.com**
 
-- 📄 Know about my experiences [**resume**] (https://drive.google.com/file/d/14vM9eUtif__q0ixn2jOGD-83HvYUjx2A/view?usp=sharing)
+- 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/14vM9eUtif__q0ixn2jOGD-83HvYUjx2A/view?usp=sharing)
 [https://eclectic-taffy-2c73da.netlify.app/](https://eclectic-taffy-2c73da.netlify.app/)
 
 - ⚡ Fun fact **I think I am funny.**
