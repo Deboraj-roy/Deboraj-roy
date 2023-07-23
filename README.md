@@ -32,8 +32,10 @@
 
 - ⚡ Fun fact **I think I am funny.**
 
-Live CV: [https://eclectic-taffy-2c73da.netlify.app/](https://eclectic-taffy-2c73da.netlify.app/)
-Live Projects: [https://deb.somee.com/](https://deb.somee.com/)
+- Live CV: [https://eclectic-taffy-2c73da.netlify.app/](https://eclectic-taffy-2c73da.netlify.app/)
+  
+- Live Projects: [https://deb.somee.com/](https://deb.somee.com/)
+  
 <!-- end about me -->
  
 <br/>
