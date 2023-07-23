@@ -16,21 +16,21 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Blood-bank-management-system](https://github.com/Deboraj-roy/Blood-bank-management-system)
+- 🔭 I’m currently working on [ecommerce website](https://github.com/Deboraj-roy/ASP.NET-Core-MVC-NET-8)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **ASP.NET Core MVC (.NET 8)**
 
 - 🤝 I’m looking for help with **Front-end web development**
 
-- 👨‍💻 All of my projects are available at [This GitHub](https://github.com/Deboraj-roy)
+- 👨‍💻 All of my projects are available at [This GitHub](https://github.com/Deboraj-roy?tab=repositories)
 
-- 💬 Ask me about **AWS, HTML, JAVA**
+- 💬 Ask me about **AWS, HTML, C#, .NET**
 
 - 📫 How to reach me **deborajroy123@gmail.com**
 
 - 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/14vM9eUtif__q0ixn2jOGD-83HvYUjx2A/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ **I enjoy watching movies and talking to people in my free time..**
 
 - Live: [CV](https://eclectic-taffy-2c73da.netlify.app/)
 
