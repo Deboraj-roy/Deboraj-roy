@@ -16,11 +16,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [ecommerce website](https://github.com/Deboraj-roy/ASP.NET-Core-MVC-NET-8)
+- 🔭 I’m currently working on [Ecommerce website](https://github.com/Deboraj-roy/ASP.NET-Core-MVC-NET-8)
 
 - 🌱 I’m currently learning **ASP.NET Core MVC (.NET 8)**
 
-- 🤝 I’m looking for help with **Front-end web development**
+- 🤝 I'm searching for joint work.
 
 - 👨‍💻 All of my projects are available at [This GitHub](https://github.com/Deboraj-roy?tab=repositories)
 
