@@ -33,9 +33,10 @@
 - ⚡ Fun fact **I think I am funny.**
 
 - Live: [CV](https://eclectic-taffy-2c73da.netlify.app/)
- <br/> 
+
 - Live Projects: [Movie Store](https://deb.somee.com/)
-  <br/>
+
+
 <!-- end about me -->
  
 <br/>
