@@ -28,6 +28,8 @@
 
 - 📫 How to reach me **deborajroy123@gmail.com**
 
+- My LinkedIn [Profile](https://www.linkedin.com/in/deboraj-roy/)
+
 - 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/14vM9eUtif__q0ixn2jOGD-83HvYUjx2A/view?usp=sharing)
 
 - ⚡ **I enjoy watching movies and talking to people in my free time..**
