@@ -39,8 +39,8 @@
 - Live Projects: [Movie Store](https://deb.somee.com/)
 
 - Live Projects: [Ecommerce website](https://raghob.bsite.net/)
-- 
-- Live Projects: [Ecommerce website](https://eticketby.azurewebsites.net/)
+ 
+- Live Projects: [eTicket](https://eticketby.azurewebsites.net/)
 
 
 <!-- end about me -->
