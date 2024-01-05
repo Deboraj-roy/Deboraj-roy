@@ -41,6 +41,13 @@
 - Live Projects 3: [Movie Store](https://moviestoredr.azurewebsites.net/)
 
 
+<h3 align="center">
+  ✍️ Favorite Quote
+
+
+"Nobody else is going to do what you need to do."
+</h3>
+
 <!-- end about me -->
  
 <br/>
