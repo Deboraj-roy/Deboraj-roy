@@ -36,8 +36,8 @@
 
 - Live: [CV](https://eclectic-taffy-2c73da.netlify.app/)
 
-- Live Projects 1: [Ecommerce(Books) website](https://bulkybookwebbydeb.azurewebsites.net/)
-- Live Projects 2: [eTicket](https://eticketby.azurewebsites.net/)
+- Live Projects 1: [Books store - Ecommerce website](https://bulkybookwebbydeb.azurewebsites.net/)
+- Live Projects 2: [eTicket - Ecommerce](https://eticketby.azurewebsites.net/)
 - Live Projects 3: [Movie Store](https://moviestoredr.azurewebsites.net/)
 
 
