@@ -145,8 +145,10 @@
 <br/>
 
 
-[![Deboraj Roy's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Deboraj-roy&&theme=xcode)](https://github.com/Deboraj-roy)
+<!--  There's nothing here, yet.
 
+[![Deboraj Roy's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Deboraj-roy&&theme=xcode)](https://github.com/Deboraj-roy)
+-->
 
 <br/>
 
@@ -156,7 +158,7 @@
 
 
 </p>
-<!-- end github analytics -->
+<!-- end github analytics 
 <br/>
 <br/>
 
