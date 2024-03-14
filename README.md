@@ -151,7 +151,7 @@
 <br/>
 
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/Deboraj-roy/Deboraj-roy/output/github-contribution-grid-snake-dark.svg" alt="Deboraj-roy contribution grid snake" />
+  <img align="center" src="https://raw.githubusercontent.com/Deboraj-roy/Deboraj-roy/output/github-contribution-grid-snake-new-dark.svg" alt="Deboraj-roy contribution grid snake" />
 
 
 
