@@ -6,7 +6,7 @@
 <br/>
 
 <!-- about me -->
-<h2 align="center"> :bust_in_silhouette: About Me :bust_in_silhouette: </h2>
+<h2 align="center"> About Me :bust_in_silhouette: </h2>
 
 <br/>
 
@@ -16,15 +16,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Ecommerce website](https://eticketby.azurewebsites.net/)
+- 💼 I am currently working as a **.NET Trainee Software Engineer** at [**PlayOn24**](https://github.com/playon24bd), gaining hands-on experience in building robust applications using .NET technologies.  
 
-- 🌱 I’m currently learning **ASP.NET Core MVC (.NET 8)**
+- 🔭 Currently, I'm developing an [Ecommerce Website](https://eticketby.azurewebsites.net/) to enhance my skills in web development.  
 
-- 🤝 I'm searching for joint work.
+- 🌱 I'm actively learning **ASP.NET Core MVC (.NET 8)** to stay updated with modern frameworks and best practices.  
 
-- 👨‍💻 All of my projects are available at [This GitHub](https://github.com/Deboraj-roy?tab=repositories)
+- 🤝 I’m open to **collaboration** on exciting software projects and opportunities that align with my skills and interests.  
 
-- 💬 Ask me about **AWS, HTML, C#, .NET**
+- 👨‍💻 Check out all of my projects on [My GitHub](https://github.com/Deboraj-roy?tab=repositories).  
+
+- 💬 Feel free to reach out if you’d like to discuss **AWS, C#, .NET,  HTML, CSS**, or explore potential project ideas!  
 
 - 📫 How to reach me **deborajroy123@gmail.com**
 
