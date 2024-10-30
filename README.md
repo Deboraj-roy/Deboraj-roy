@@ -6,7 +6,7 @@
 <br/>
 
 <!-- about me -->
-<h2 align="center"> 🧑‍💻 About Me :bust_in_silhouette: </h2>
+<h2 align="center"> 🧑‍💻 About Me 👨‍💼 </h2>
 
 <br/>
 
