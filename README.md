@@ -159,12 +159,16 @@
 
 
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deboraj-roy&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 </p>
 <!-- end github analytics 
 <br/>
 <br/>
 
 <!-- github profile trophy -->
+<!-- 
 <h2 align="center"> :trophy: GitHub Profile Trophy :trophy: </h2>
 
 <br/>
@@ -174,7 +178,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Deboraj-roy&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Deboraj Roy github profile trophy" />
   </a>
 </p>
-
+-->
 <!-- end github profile trophy -->
 
 <br/>
