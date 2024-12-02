@@ -18,9 +18,9 @@
 
 - 💼 I am currently working as a **.NET Trainee Software Engineer** at [**PlayOn24**](https://github.com/playon24bd), gaining hands-on experience in building robust applications using .NET technologies.  
 
-- 🔭 Currently, I'm developing an [Ecommerce Website](https://eticketby.azurewebsites.net/) to enhance my skills in web development.  
+- 🔭 Currently, I'm developing an [Angular Project](https://deboraj-roy.github.io/Library-Management-System-SinglePage/) to enhance my skills in web development.  
 
-- 🌱 I'm actively learning **ASP.NET Core MVC (.NET 8)** to stay updated with modern frameworks and best practices.  
+- 🌱 I'm actively learning **ASP.NET Core MVC** to stay updated with modern frameworks and best practices.  
 
 - 🤝 I’m open to **collaboration** on exciting software projects and opportunities that align with my skills and interests.  
 
