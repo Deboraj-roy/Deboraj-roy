@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Deboraj-roy/Resume/blob/main/New%20folder/w3images/output-onlinegiftools.gif">
 
-- 💼 I am currently working as a **.NET Trainee Software Engineer** at [**PlayOn24**](https://github.com/playon24bd), gaining hands-on experience in building robust applications using .NET technologies.  
+- 💼 I am currently working as a **Software Engineer** at [**PlayOn24**](https://github.com/playon24bd), gaining hands-on experience in building robust applications using .NET technologies.  
 
 - 🔭 Currently, I'm developing an [Angular Project](https://deboraj-roy.github.io/Library-Management-System-SinglePage/) to enhance my skills in web development.  
 
