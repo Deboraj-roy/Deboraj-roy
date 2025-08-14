@@ -60,8 +60,9 @@
 <h2 align="center">🛠 Tools 🛠</h2>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,idea,linux,docker,matlab,ai" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,cs,dotnet,postman,aws,azure,linux,docker,githubactions,idea,matlab,ai,sublime" />
 </p>
+
 
 <br/>
  
