@@ -38,7 +38,7 @@
 
 - Live: [CV](https://deboraj-roy.github.io/Resume/)
 
-- Live Projects 1: [Books store - Ecommerce website](https://bookstoredeb.somee.com)
+- Live Projects 1: [Books store - Ecommerce website](https://bookstoredeb.runasp.net)
 - Live Projects 2: [eTicket - Ecommerce](http://www.eticket.somee.com/)
 - Live Projects 3: [Movie Store](https://moviestoredr.azurewebsites.net/)
 
