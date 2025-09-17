@@ -18,7 +18,7 @@
 
 - 💼 I am currently working as a **Software Engineer** at [**PlayOn24**](https://github.com/playon24bd), gaining hands-on experience in building robust applications using .NET technologies.  
 
-- 🔭 Currently, I'm developing an [Angular Project](https://deboraj-roy.github.io/Library-Management-System-SinglePage/) to enhance my skills in web development.  
+- 🔭 Currently, I'm developing an [ASP.NET-Core-Microservices](https://orange-cherry-fa56.mrouf7353.workers.dev/) to enhance my skills in web development.  
 
 - 🌱 I'm actively learning **ASP.NET Core MVC** to stay updated with modern frameworks and best practices.  
 
@@ -38,9 +38,11 @@
 
 - Live: [CV](https://deboraj-roy.github.io/Resume/)
 
-- Live Projects 1: [Books store - Ecommerce website](https://bookstoredeb.runasp.net)
-- Live Projects 2: [eTicket - Ecommerce](http://www.eticket.somee.com/)
-- Live Projects 3: [Movie Store](https://moviestoredr.azurewebsites.net/)
+- Live Projects 1: [ASP.NET-Core-Microservices](https://orange-cherry-fa56.mrouf7353.workers.dev/)
+- Live Projects 2: [Library Management System - Single Page Angular 17](https://deboraj-roy.github.io/Library-Management-System-SinglePage)
+- Live Projects 3: [Books store - Ecommerce website](https://bookstoredeb.runasp.net)
+- Live Projects 4: [eTicket - Ecommerce](http://www.eticket.somee.com/)
+- Live Projects 5: [Movie Store](https://moviestoredr.azurewebsites.net/)
 
 
 <h3 align="center">
