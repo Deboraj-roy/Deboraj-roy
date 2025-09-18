@@ -41,8 +41,8 @@
 - Live Projects 1: [ASP.NET-Core-Microservices](https://orange-cherry-fa56.mrouf7353.workers.dev/)
 - Live Projects 2: [Library Management System - Single Page Angular 17](https://deboraj-roy.github.io/Library-Management-System-SinglePage)
 - Live Projects 3: [Books store - Ecommerce website](https://bookstoredeb.runasp.net)
-- Live Projects 4: [eTicket - Ecommerce](http://www.eticket.somee.com/)
-- Live Projects 5: [Movie Store](https://moviestoredr.azurewebsites.net/)
+- Live Projects 4: [eTicket - Ecommerce](http://eticket.runasp.net/)
+- Live Projects 5: [Movie Store](http://movie-store.runasp.net/Home/Index)
 
 
 <h3 align="center">
