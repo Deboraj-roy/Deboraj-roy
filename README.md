@@ -37,6 +37,7 @@
 - ⚡ **I enjoy watching movies and talking to people in my free time..**
 
 - Live: [CV](https://deboraj-roy.github.io/Resume/)
+- Website-status [Link-1](https://deboraj-roy.github.io/daily-site-pinger/) or [Link-2](https://gitgalleons.github.io/Daily-website-status-dashboard/)
 
 - Live Projects 1: [ASP.NET-Core-Microservices](https://orange-cherry-fa56.mrouf7353.workers.dev/)
 - Live Projects 2: [Library Management System - Single Page Angular 17](https://deboraj-roy.github.io/Library-Management-System-SinglePage)
