@@ -32,7 +32,7 @@
 
 - My LinkedIn [Profile](https://www.linkedin.com/in/deboraj-roy/)
 
-- 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/14vM9eUtif__q0ixn2jOGD-83HvYUjx2A/view?usp=sharing)
+- 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/1G7bXXG6o9YcNbNT3TXhp0cc7wS9Y--3k/view?usp=sharing)
 
 - ⚡ **I enjoy watching movies and talking to people in my free time..**
 
