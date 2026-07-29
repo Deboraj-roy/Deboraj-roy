@@ -16,7 +16,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Deboraj-roy/Resume/blob/main/New%20folder/w3images/output-onlinegiftools.gif">
 
-- 💼 I am currently working as a **Software Engineer** at [**PlayOn24**](https://github.com/playon24bd), gaining hands-on experience in building robust applications using .NET technologies.  
+- 💼 I am currently working as a **Software Engineer** at [**Global Software Architects (GSA)**](https://www.linkedin.com/company/global-software-architects/), where I develop enterprise-grade web applications using **ASP.NET Core, C#, Angular, TypeScript, and SQL Server**. My work focuses on building scalable business solutions, designing RESTful APIs, and implementing advanced spreadsheet and data management features that enhance productivity and streamline business workflows.
+ 
 
 - 🔭 Currently, I'm developing an [ASP.NET-Core-Microservices](https://orange-cherry-fa56.mrouf7353.workers.dev/) to enhance my skills in web development.  
 
